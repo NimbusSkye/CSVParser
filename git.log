@@ -1,0 +1,71 @@
+commit 66a47268f89c75fbf9fac46347a85431ec208da9
+Author: Yufeng WANG <ywang498@teaching.CS.McGill.CA>
+Date:   Sat Nov 23 16:51:03 2019 -0500
+
+    Merged with Esteban's code into complete project
+
+commit 7c076e326f42f61bd455e5dcff32158c5fe5af37
+Author: Yufeng WANG <ywang498@teaching.CS.McGill.CA>
+Date:   Fri Nov 22 15:06:01 2019 -0500
+
+    Handle cases where the list is empty and when findUpdate doesn't find the account better.
+
+commit b94d30774198fd7580685f013c87f0f6c5465a82
+Author: Yufeng WANG <ywang498@teaching.CS.McGill.CA>
+Date:   Fri Nov 22 14:42:06 2019 -0500
+
+    Implemented head variable as a pointer successfully.
+
+commit 8f1bae515f7220f52174f49bea4ad3533fb46905
+Author: Yufeng WANG <ywang498@teaching.CS.McGill.CA>
+Date:   Fri Nov 22 14:29:05 2019 -0500
+
+    Before changing head variable to a pointer
+
+commit 0242826fd669636667ce55bfd08c143b66089bcc
+Author: Yufeng WANG <ywang498@teaching.CS.McGill.CA>
+Date:   Thu Nov 21 20:48:01 2019 -0500
+
+    Wrote header file, changed head variable from a pointer to a struct.
+
+commit e1fe4c5cfe85f1ca344220d30b5b8ce26780366f
+Author: Yufeng WANG <ywang498@teaching.CS.McGill.CA>
+Date:   Thu Nov 21 19:43:20 2019 -0500
+
+    Renamed alexcode.c to linkedlist.c
+
+commit 10e05b81f85a566932354ccaccabafbbffcb36d1
+Author: Yufeng WANG <ywang498@open-19.CS.McGill.CA>
+Date:   Thu Nov 21 13:53:22 2019 -0500
+
+    Made some syntax corrections
+
+commit 7b16c2fb5b9fa648fcac8d64e7c8e55e4b4804c4
+Author: Yufeng WANG <ywang498@teaching.CS.McGill.CA>
+Date:   Thu Nov 21 13:44:29 2019 -0500
+
+    Wrote main() to test addNode and findUpdate functions, no errors thus far
+
+commit 0c7a13544dd7d4c0fa39d0d6f4ac6c63159014f6
+Author: Yufeng WANG <ywang498@teaching.CS.McGill.CA>
+Date:   Thu Nov 21 13:43:23 2019 -0500
+
+    Corrected addNode function to use malloc instead of declaring data structures inside a function
+
+commit 9353bdbc4318e1c72b9de7f3a333ae502c99953f
+Author: Yufeng WANG <ywang498@teaching.CS.McGill.CA>
+Date:   Thu Nov 21 13:42:17 2019 -0500
+
+    Wote addNode function
+
+commit 7dcd09a9de23672da91c55b9b626e68e8d531a81
+Author: Yufeng WANG <ywang498@teaching.CS.McGill.CA>
+Date:   Thu Nov 21 13:40:49 2019 -0500
+
+    Wrote findUpdate function
+
+commit 692b01e0dfbb4a4250fe5dd0225dfee1622d6258
+Author: Yufeng WANG <ywang498@teaching.CS.McGill.CA>
+Date:   Thu Nov 21 13:35:48 2019 -0500
+
+    Wrote struct NODE with number and balance fields.
